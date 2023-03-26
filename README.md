@@ -4,6 +4,11 @@
 A Deep Learning Model which would able to predict your emotions just by looking to your face. The Accuracy it reach upto 55% . It train on 22500 data and on 6 different class.
 It can also detect multi-face emotion from a image or frame.
 
+#### Note
+ I didn't add "X.pkl" file because it is a large file around 2 gb . you get both X and Y_binary files by just running preprocessing.ipynb
+ 
+ 'X.pkl' and 'Y_binary.pkl' are file of our data preprocessed. it will very usefull for our training process.
+ 
 
 ## Appendix
 
