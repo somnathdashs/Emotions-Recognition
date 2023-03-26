@@ -22,9 +22,9 @@ Activatiion on last layer :- softmax
 
 ## Screenshots
 
-![Neutral Preview](https://github.com/somnathdashs/Emotions-Recognition/blob/main/Preview/privew1.JPG?raw=true)
+![Neutral Preview](https://raw.githubusercontent.com/somnathdashs/Emotions-Recognition/main/Test_img/privew1.JPG)
 
-![Happy Preview](https://github.com/somnathdashs/Emotions-Recognition/blob/main/Preview/happy.JPG?raw=true)
+![Happy Preview](https://raw.githubusercontent.com/somnathdashs/Emotions-Recognition/main/Test_img/happy.JPG)
 ## Libray Used
 
  ##### > opencv
